@@ -1,0 +1,7 @@
+id,from,to,weight,relation
+1,dm,md,2,3
+2,dm,jg,2,2
+3,dm,nm,1,1
+4,dm,jr,1,1
+5,md,jg,1,4
+6,jr,nm,1,1
